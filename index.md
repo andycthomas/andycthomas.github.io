@@ -2,24 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Cloud and Devops Learning Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
+- [ec2 LAMP Webstack ]https://github.com/andycthomas/dareyio-pbl/blob/main/project1/project1.md)
+  Spin-up an ec2 instance and deploy a LAMP stack. 
+  
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
