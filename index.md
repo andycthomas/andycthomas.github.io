@@ -1,5 +1,5 @@
 ## About me
-I am a maverick leader
+![Fascinate](https://andycthomas.github.com/images/archetype.jpg)
 
 ## Portfolio
 
