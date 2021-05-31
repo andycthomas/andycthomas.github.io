@@ -1,6 +1,6 @@
 ## About me
-![Fascinate]
-(https://andycthomas.github.io/images/archetype.jpg)
+<img src="/images/archetype.jpg" alt="">
+
 
 ## Portfolio
 
