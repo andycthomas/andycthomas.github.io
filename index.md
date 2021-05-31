@@ -14,7 +14,7 @@
 
 3. [ec2 MERN stack ](https://github.com/andycthomas/dareyio-pbl/blob/main/project3/project3.md) Spin-up an ec2 instance and deploy a MERN stack.
 
-4. [ec2 MeAN stack ](https://github.com/andycthomas/dareyio-pbl/blob/main/project4/project4.md) Spin-up an ec2 instance and deploy a MEAN stack.
+4. [ec2 MEAN stack ](https://github.com/andycthomas/dareyio-pbl/blob/main/project4/project4.md) Spin-up an ec2 instance and deploy a MEAN stack.
 
 5. [ec2 Client Server](https://github.com/andycthomas/dareyio-pbl/blob/main/project5/project5.md) Spin-up two ec2 instances in the same VPC. Install mysql-server on one of them and make the necessary changes so that mysql-client on the other instance could connect to the remote database.
 
