@@ -1,5 +1,5 @@
 ## About me
-<img src="/images/archetype.jpg" alt="">
+<img src="/images/bigarchtype.jpg" alt="">
 
 
 ## Portfolio
