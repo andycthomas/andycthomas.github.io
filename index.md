@@ -20,6 +20,7 @@
 
 6. [ec2, ebs, and wordpress](https://github.com/andycthomas/dareyio-pbl/blob/main/project6/project6.md) Spin-up two ec2 instances, give them both 3 ebs volumes. Create partitions, physical volumes, logical volume groups on all of them. Then install and configure mysql on one instance, and wordpress on the other instance.
 
+7. [ec2, ebs, nfs, ](https://github.com/andycthomas/dareyio-pbl/blob/main/Project7/project7.md) Spin-up five ec2 instances, Configure one of them as a database server, 3 of them as webservers, and the remaining one is an nfs server for the others. 
   
   
 ---
