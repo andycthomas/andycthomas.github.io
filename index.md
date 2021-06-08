@@ -20,10 +20,12 @@
 
 6. [ec2, ebs, and wordpress](https://github.com/andycthomas/dareyio-pbl/blob/main/project6/project6.md) Spin-up two ec2 instances, give them both 3 ebs volumes. Create partitions, physical volumes, logical volume groups on all of them. Then install and configure mysql on one instance, and wordpress on the other instance.
 
-7. [ec2, ebs, nfs, ](https://github.com/andycthomas/dareyio-pbl/blob/main/Project7/project7.md) Spin-up five ec2 instances, Configure one of them as a database server, 3 of them as webservers, and the remaining one is an nfs server for the others. 
+7. [ec2, ebs, nfs, ](https://github.com/andycthomas/dareyio-pbl/blob/main/Project7/project7.md) Spin-up five ec2 instances, Configure one of them as a database server, 3 of them as webservers, and the remaining one is an nfs server for the others.
+8. [ec2, ebs, nfs, load balacner ](https://github.com/andycthomas/dareyio-pbl/blob/main/Project8/Project8.md) Using the set-up from project7, and another ec2 instance and configure apache loader balancer to act as a load balancer for the web servers. Verify that the site can be logged into by browsing to the public dns of the laod balancer, and check the web server access log files to confirm that the round-robbing load balncing policy is working correctly.
+
+
   
   
----
 
 
 
