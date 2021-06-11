@@ -24,12 +24,7 @@
 
 8. [ec2, ebs, nfs, load balancer ](https://github.com/andycthomas/dareyio-pbl/blob/main/Project8/Project8.md) Using the set-up from project7. Add another ec2 instance and configure apache loader balancer on it to act as a load balancer for the web servers. Verify that the site can be logged into by browsing to the public dns of the laod balancer, and check the web server access log files to confirm that the round-robin load balncing policy is working correctly.
 
-9. [ec2, ebs, nfs, jenkins ](https://github.com/andycthomas/dareyio-pbl/blob/main/Project9/project9.md) Building upon the infrastructure for project8, add another ec2 instance running ubuntu, and configure it to be a jenkins build server.
-
-        1. Add another ec2 instance running ubuntu.
-        2. Configure the new instance to be a jenkins build server.
-        3. Add webhooks to one of the github repos, and the jenkins instance.
-        4. Create a jenkins job that is triggered by the webhook, and has a post-build action to publish files to the nfs server.
+9. [ec2, ebs, nfs, jenkins ](https://github.com/andycthomas/dareyio-pbl/blob/main/Project9/project9.md) Building upon the infrastructure for project8, add another ec2 instance running ubuntu, and configure it to be a jenkins build server that publishes artefacts to the nfs server.
 
 
 
