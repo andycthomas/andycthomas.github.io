@@ -26,7 +26,7 @@
 
 9. [ec2, ebs, nfs, jenkins ](https://github.com/andycthomas/dareyio-pbl/blob/main/Project9/project9.md) Building upon the infrastructure for project8, add another ec2 instance running ubuntu, and configure it to be a jenkins build server that publishes artefacts to the nfs server.
 
-
+10. [ec2, nginx, load balancer](https://github.com/andycthomas/dareyio-pbl/blob/main/Project10/project10.md) Taking the infrastructrure from project8 and replacing the apache load balancer with an nginx load balancer. Registering a new domanin, pointing it at the elastic IP address of the load balancer, and securing the site with a new SSL/TLS certificate
 
   
   
