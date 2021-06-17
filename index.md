@@ -28,6 +28,7 @@
 
 10. [ec2, nginx, load balancer](https://github.com/andycthomas/dareyio-pbl/blob/main/Project10/project10.md) Taking the infrastructrure from project8 and replacing the apache load balancer with an nginx load balancer. Registering a new domanin, pointing it at the elastic IP address of the load balancer, and securing the site with a new SSL/TLS certificate
 
+11. [ec2, nginx, jenkins, ansible, github] https://github.com/andycthomas/dareyio-pbl/blob/main/Project11/project11.md A small project proof of concept setting up a new github repo with webhooks to trigger a jenkins build, and then use the deployed artefacts to run an ansible playbook to install wireshark on the remaining serves from previous projects
   
   
 
